@@ -1,0 +1,6 @@
+@WcsDataGenerator_HostAddress = http://localhost:5137
+
+GET {{WcsDataGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
